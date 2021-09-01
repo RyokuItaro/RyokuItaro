@@ -4,7 +4,7 @@
 
 ## I'm an IT student living in Poland :school:
 - :book: I'm currently working on my skill-set, constantly improving and heading towards becoming a .NET Developer
-- :books: I'm currently learning everything about ASP.NET Core, from MVC to APIs
+- :books: I'm currently learning everything about ASP.NET Core and Microsoft Dynamics 365.
 - :red_car: Other interests: Guitar, games and cars
 
 <h3 align="left">Languages and Tools:</h3>
