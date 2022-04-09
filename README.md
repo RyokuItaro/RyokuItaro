@@ -1,4 +1,4 @@
-# Hi! I'm Karol, also known as Ryoku :stuck_out_tongue_winking_eye:
+# Hi! I'm Karol :stuck_out_tongue_winking_eye:
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
